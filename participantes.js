@@ -6,7 +6,7 @@ const participantes = [
   },
   {
     nome: "Fabrício Costa",
-    numeros: [1, 4, 5, 6, 11, 15, 17, 19, 20, 21],
+    numeros: [3, 8, 11, 17, 23, 38, 39, 43, 54, 58],
     inicioConcurso: 2900
   },
   {
@@ -73,8 +73,14 @@ const participantes = [
     nome: "Danilo Honório",
     numeros: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
     inicioConcurso: 2900
+  },
+  {
+    nome: "Wilson Costa",
+    numeros: [3, 5, 7, 11, 13, 21, 35, 47, 55, 60],
+    inicioConcurso: 2900
   }
 ];
+
 
 
 
