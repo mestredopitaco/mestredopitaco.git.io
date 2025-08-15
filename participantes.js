@@ -83,8 +83,14 @@ const participantes = [
     nome: "Milton da Silva",
     numeros: [4, 5, 10, 22, 25, 53, 55, 58, 59, 60],
     inicioConcurso: 2900
+  },
+ {
+    nome: "Gilberto Monteiro",
+    numeros: [18, 19, 22, 25, 33, 37, 51, 54, 56, 60],
+    inicioConcurso: 2901
   }
 ];
+
 
 
 
