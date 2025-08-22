@@ -15,9 +15,14 @@ const resultados = [
   {
   concurso: 2903,
    numeros: [20,24,27,46,50,54]
+  },
+  {
+  concurso: 2904,
+   numeros: [02,37,38,46,52,55]
   }
   // Adicione outros concursos aqui
 ];
+
 
 
 
